@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+common_algorithms/.vs/common_algorithms/v15/.suo
+common_algorithms/.vs/common_algorithms/v15/Browse.VC.db
+common_algorithms/.vs/common_algorithms/v15/Browse.VC.opendb
+common_algorithms/common_algorithm/common_algorithm.vcxproj.filters
+common_algorithms/common_algorithms.sdf
+common_algorithms/common_algorithms.v12.suo
